@@ -1,0 +1,36 @@
+Product photo sources
+=====================
+
+All Unsplash images listed below are available under the Unsplash License
+(https://unsplash.com/license). They are stored locally and cropped/resized
+to 960 x 720 pixels for consistent product-card presentation.
+
+Unsplash image IDs:
+1496181133206-80ce9b88a853, 1517336714731-489689fd1ca8,
+1588872657578-7efd1f1555ed, 1593642632823-8f785ba67e45,
+1498050108023-c5249f4df085, 1517430816045-df4b7de11d1d,
+1511707171634-5f897ff02aa9, 1598327105666-5b89351aff97,
+1592899677977-9c10ca588bbd, 1512499617640-c74ae3a79d37,
+1505740420928-5e560c06d30e, 1546435770-a3e426bf472b,
+1606220945770-b5b6c2c55bf1, 1583394838336-acd977736f90,
+1544244015-0df4b3ffc6b0, 1561154464-82e9adf32764,
+1527864550417-7fd91fc51a46, 1595225476474-87563907a212,
+1527443224154-c4a3942d3acf, 1585792180666-f7347c490ee2.
+
+The following Wikimedia Commons photos are licensed under Creative Commons
+Attribution-ShareAlike (CC BY-SA). Each was cropped/resized to 960 x 720;
+that adaptation is made available under the same license.
+
+* "2023 Amazon Kindle Paperwhite (2).jpg" by Jacek Halicki,
+  https://commons.wikimedia.org/wiki/File:2023_Amazon_Kindle_Paperwhite_(2).jpg
+  License: https://creativecommons.org/licenses/by-sa/4.0
+* "Fitbit Alta HR landscape.jpg" by PamD,
+  https://commons.wikimedia.org/wiki/File:Fitbit_Alta_HR_landscape.jpg
+  License: https://creativecommons.org/licenses/by-sa/4.0
+* "PowerbankEnergizerQE10007PQ20210904184208pixelated20210905.jpg" by OnionBulb,
+  https://commons.wikimedia.org/wiki/File:PowerbankEnergizerQE10007PQ20210904184208pixelated20210905.jpg
+  License: https://creativecommons.org/licenses/by-sa/4.0
+* "Goal Zero Yeti 1400 Lithium Portable Power Station with WiFi Battery Pack
+  with MacBook Pro" by Tony Webster,
+  https://commons.wikimedia.org/wiki/File:Goal_Zero_Yeti_1400_Lithium_Portable_Power_Station_with_WiFi_Battery_Pack_with_MacBook_Pro_-_USB-C_Power_Delivery_Specification_(PD_spec)_(43467687445).jpg
+  License: https://creativecommons.org/licenses/by-sa/2.0
